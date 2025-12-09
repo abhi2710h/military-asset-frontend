@@ -87,7 +87,7 @@ const Login = () => {
             </button>
           </div>
           <div className="text-sm text-gray-600 text-center">
-            <p>Default credentials: admin / admin123</p>
+            <p>Default credentials:</p>
           <p className="mt-2">
             Need an account?{' '}
             <Link to="/register" className="text-blue-700 hover:underline">
